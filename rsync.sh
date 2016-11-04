@@ -24,6 +24,6 @@ then
     sleep 10
     done
 else
-    echo "[ceshi]  同步统计日志IP获取出现问题,请登陆服务器 检查$0 脚本！ " >>/var/log/check.log
+    echo "[ceshi]  同步日志IP获取出现问题,请登陆服务器 检查$0 脚本！ " >>/var/log/check.log
 fi
 exit 0
