@@ -12,3 +12,6 @@
 
 * rsync同步：
   [*rsync.sh*](https://github.com/honglongwei/shell-scripts/blob/master/rsync.sh)
+  
+* 遍历求和：
+  [*sum.sh*](https://github.com/honglongwei/shell-scripts/blob/master/sum.sh)
