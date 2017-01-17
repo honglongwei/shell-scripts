@@ -15,3 +15,6 @@
   
 * 遍历求和：
   [*sum.sh*](https://github.com/honglongwei/shell-scripts/blob/master/sum.sh)
+
+* rsync_windows_cygwin：
+  [*rsync_for_windows_cygwin.sh*](https://github.com/honglongwei/shell-scripts/blob/master/rsync_for_windows_cygwin.sh)
