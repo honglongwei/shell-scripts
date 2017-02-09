@@ -18,3 +18,6 @@
 
 * rsync_windows_cygwin：
   [*rsync_for_windows_cygwin.sh*](https://github.com/honglongwei/shell-scripts/blob/master/rsync_for_windows_cygwin.sh)
+
+* Linux rm改成mv(alias rm='/usr/bin/rm.sh')：
+  [*rm.sh*](https://github.com/honglongwei/shell-scripts/blob/master/rm.sh)
