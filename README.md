@@ -21,3 +21,6 @@
 
 * Linux rm改成mv(alias rm='/usr/bin/rm.sh')：
   [*rm.sh*](https://github.com/honglongwei/shell-scripts/blob/master/rm.sh)
+
+* Shell批量遍历文件并比对md5值：
+  [*md5_file.sh*](https://github.com/honglongwei/shell-scripts/blob/master/md5_file.sh)
