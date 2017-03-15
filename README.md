@@ -21,6 +21,9 @@
 
 * Linux rm改成mv(alias rm='/usr/bin/rm.sh')：
   [*rm.sh*](https://github.com/honglongwei/shell-scripts/blob/master/rm.sh)
+  
+* Linux crontab别名(与上面的rm别名配套使用)：
+  [*cron.sh*](https://github.com/honglongwei/shell-scripts/blob/master/cron.sh)
 
 * Shell批量遍历文件并比对md5值：
   [*md5_file.sh*](https://github.com/honglongwei/shell-scripts/blob/master/md5_file.sh)
